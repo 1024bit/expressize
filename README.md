@@ -1,4 +1,4 @@
-## An wrapper for template engine mount on express
+## A wrapper for template engine mount on express
 
 ### Usage
 
